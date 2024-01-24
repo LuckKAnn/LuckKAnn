@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Hello World, I'm LuckKAnn!](header.gif)](https://github.com/LuckKAnn)
+
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/LuckKAnn) &nbsp;
@@ -72,5 +73,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+
+[![Hello World, I'm LuckKAnn!](mario.gif)](https://github.com/LuckKAnn)
 
 </div>
