@@ -39,7 +39,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Java Spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,spring&theme=light)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
