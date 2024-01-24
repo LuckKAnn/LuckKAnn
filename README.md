@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to Luckkun Github profile 
 
 <!--
 **LuckKAnn/LuckKAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![Hello World, I'm LuckKAnn!](assets/header.gif)](https://github.com/LuckKAnn)
+[![Hello World, I'm LuckKAnn!](header.gif)](https://github.com/LuckKAnn)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/LuckKAnn) &nbsp;
