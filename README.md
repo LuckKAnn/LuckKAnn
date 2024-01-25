@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![Hello World, I'm LuckKAnn!](header.gif)](https://github.com/LuckKAnn)
+[![Hello World, I'm LuckKAnn!](assets/header.gif)](https://github.com/LuckKAnn)
 
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
@@ -51,7 +51,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 </p>
 
 ## 🏆 My Stats:
-
+<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuckKAnn&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckKAnn&layout=compact&theme=dark" />&nbsp;&nbsp;
@@ -75,6 +76,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 
-[![Hello World, I'm LuckKAnn!](mario.gif)](https://github.com/LuckKAnn)
+[![Hello World, I'm LuckKAnn!](assets/mario.gif)](https://github.com/LuckKAnn)
 
 </div>
