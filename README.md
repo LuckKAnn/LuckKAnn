@@ -40,7 +40,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Java Spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,spring&theme=light)](https://skillicons.dev)
+[![Java Spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,spring,docker,elasticsearch,idea,linux&theme=light)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
@@ -52,6 +52,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 🏆 My Stats:
 <!--START_SECTION:activity-->
+
 <!--START_SECTION:activity-->
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuckKAnn&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
