@@ -40,7 +40,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Java Spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,spring,docker,elasticsearch,idea,linux&theme=light)](https://skillicons.dev)
+[![Java Spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,spring,docker,elasticsearch,idea,linux,redis,nginx,maven,kubernetes,kafka&theme=light)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
