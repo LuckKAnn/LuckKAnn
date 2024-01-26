@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to Luckkun Github profile 
 
 <!--
-**LuckKAnn/LuckKAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -60,6 +59,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <!--END_SECTION:activity-->
 
 <!-- START gadpp -->
+- LuckKAnn/LuckKAnn, [refs/heads/master@712b9c7c450d40f0696f015d2d74361a1696a2c0](https://github.com/LuckKAnn/LuckKAnn/commit/712b9c7c450d40f0696f015d2d74361a1696a2c0)
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuckKAnn&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
