@@ -50,6 +50,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <a target="_blank"href="https://medium.com/@LuckKAnn"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
+
+
+
 ## 🏆 My Stats:
 <!--START_SECTION:activity-->
 
@@ -58,13 +61,16 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <!-- START gadpp -->
 
-
-
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuckKAnn&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckKAnn&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+
+<details>
+  <summary>More...</summary>
+  <br />
+ 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
 
 <p>
@@ -84,5 +90,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 
 [![Hello World, I'm LuckKAnn!](assets/mario.gif)](https://github.com/LuckKAnn)
+</details>
+
+
 
 </div>
